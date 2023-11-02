@@ -1,4 +1,4 @@
-# BankOfIsrael Service
+# Currency exchange server
 ## Client to get exchange currency rate by Bank Of Israel
 
 When converting between two foreign currencies (that is, currencies other than the Israeli shekel), a two-step conversion is performed.
